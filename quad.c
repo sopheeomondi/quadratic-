@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 /*project: quadratic equation
-  author: brian waithuki
+  author: Sophee Omondi 
 */
 //quadratic equation
 //find x in ax2 + bx + c = 0
